@@ -29,7 +29,7 @@ Questions regarding A1: <br/>
 <br />
 <br />
 
-<b>Alert 2 (A2):</b> <br/> The README.txt file informs us that A2's source is sysmon, the rule is (Event_System_EventID :"11" AND Event_EventData_Image : *Windows\\Start*\\Programs\\Startup*), and the timframe is (14-4-2021 10:30 to 14-4-2021 13:00)
+<b>Alert 2 (A2):</b> <br/> The README.txt file informs us that A2's source is sysmon, the rule is (Event_System_EventID :"11" AND Event_EventData_Image : *Windows\\Start*\\Programs\\Startup*), and the timframe is (14-4-2021 10:30 to 14-4-2021 13:00) <br />
 <img src="https://i.imgur.com/Ihd0UZ5.png" height="80%" width="80%" alt="Filtering data for alert 2"/>
 <br />
 Questions regarding A2: <br/>
